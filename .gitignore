@@ -1,0 +1,4 @@
+.DS_Store
+
+# If you want to remove all the '.DS_Store' files in current directory and sub-directories, then use the following command.
+# find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
